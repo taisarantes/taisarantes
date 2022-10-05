@@ -3,7 +3,7 @@
 
 - 🔭 Segundo semestre em Ciências da Computação
 - 🐾 Aprendendo Java e C 
-- 👩‍💼 Procurando oportunidades de emprego
+- 👩‍💼 Em busca de aprendizado e de iniciar minha carreira
 - 🐈‍⬛ Pronomes: ela/dela
 - 🎮 Hobbies: desenhar, programar e academia
 
