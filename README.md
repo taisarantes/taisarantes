@@ -1,8 +1,7 @@
 ### Oi! Eu sou a Tais Arantes 👋
 
 
-- 🔭 Segundo semestre em Ciências da Computação
-- 🐾 Aprendendo Java e C 
+- 🔭 Segundo semestre em Ciências da Computação 
 - 👩‍💼 Em busca de aprendizado e de iniciar minha carreira
 - 🐈‍⬛ Pronomes: ela/dela
 - 🎮 Hobbies: desenhar, programar e academia
@@ -12,6 +11,8 @@
   <img height="45%" src="https://github-readme-stats.vercel.app/api?username=taisarantes&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisarantes&layout=compact&langs_count=7&theme=material-palenight"/> 
 </div>
+
+### ✨ Aprendendo:
 
 <div style="display: inline_block"><br> 
   <img align="center" alt="Tais-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
