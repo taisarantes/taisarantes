@@ -3,7 +3,6 @@
 
 - 🔭 Segundo semestre em Ciências da Computação 
 - 👩‍💼 Em busca de aprendizado e de iniciar minha carreira
-- 🐈‍⬛ Pronomes: ela/dela
 - 🎮 Hobbies: desenhar, programar e academia
 
 <div align="center">
