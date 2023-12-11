@@ -23,6 +23,5 @@
  </div>
  
  ##
- 
- ![Snake animation](https://github.com/taisarantes/taisarantes/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/taisarantes/taisarantes/blob/output/github-contribution-grid-snake.svg)
 
