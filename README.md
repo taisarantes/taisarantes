@@ -1,7 +1,7 @@
 ### Oi! Eu sou a Tais Arantes 👋
 
 
-- 🔭 Quarto semestre em Ciência da Computação 
+- 🔭 Estudante de Ciências da Computação 
 - 👩‍💼 Em busca de aprendizado e de iniciar minha carreira
 - 🎮 Hobbies: desenhar, programar e academia
 
